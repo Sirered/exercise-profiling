@@ -17,3 +17,12 @@
 ### Jmeter CLI /highest-gpa
 
 ![image](https://github.com/Sirered/exercise-profiling/assets/126568984/b3b91e02-78e4-448a-80bb-a19033b04585)
+
+### Jmeter after refactoring /all-student-name
+
+![image](https://github.com/Sirered/exercise-profiling/assets/126568984/68c2de77-d5dd-45aa-b1ae-f1977498127c)
+
+### Jmeter after refactoring /highest-gpa
+
+![image](https://github.com/Sirered/exercise-profiling/assets/126568984/3dcd382c-8409-4f32-abee-b0a4c5370c88)
+
